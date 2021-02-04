@@ -5,3 +5,5 @@ def password(p):
 
     else:
         return False
+
+print (password("Ksdsdgssdb"))
